@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
   28:Generated_Source\PSoC4/CapSense_ISR.c **** ********************************************************************************/
   29:Generated_Source\PSoC4/CapSense_ISR.c **** /* `#START CapSense_ISR_intc` */
   30:Generated_Source\PSoC4/CapSense_ISR.c **** 
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 2
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 2
 
 
   31:Generated_Source\PSoC4/CapSense_ISR.c **** /* `#END` */
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
   85:Generated_Source\PSoC4/CapSense_ISR.c **** *  Function definition example:
   86:Generated_Source\PSoC4/CapSense_ISR.c **** *   CY_ISR(MyISR)
   87:Generated_Source\PSoC4/CapSense_ISR.c **** *   {
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 3
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 3
 
 
   88:Generated_Source\PSoC4/CapSense_ISR.c **** *   }
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  142:Generated_Source\PSoC4/CapSense_ISR.c **** *
  143:Generated_Source\PSoC4/CapSense_ISR.c **** * Summary:
  144:Generated_Source\PSoC4/CapSense_ISR.c **** *   The default Interrupt Service Routine for CapSense_ISR.
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 4
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 4
 
 
  145:Generated_Source\PSoC4/CapSense_ISR.c **** *
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  180:Generated_Source\PSoC4/CapSense_ISR.c **** * 
  181:Generated_Source\PSoC4/CapSense_ISR.c **** *   When defining ISR functions, the CY_ISR and CY_ISR_PROTO macros should be 
  182:Generated_Source\PSoC4/CapSense_ISR.c **** *   used to provide consistent definition across compilers:
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 5
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 5
 
 
  183:Generated_Source\PSoC4/CapSense_ISR.c **** *
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  210:Generated_Source\PSoC4/CapSense_ISR.c **** *   Gets the "address" of the current ISR vector for the Interrupt.
  211:Generated_Source\PSoC4/CapSense_ISR.c **** *
  212:Generated_Source\PSoC4/CapSense_ISR.c **** * Parameters:
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 6
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 6
 
 
  213:Generated_Source\PSoC4/CapSense_ISR.c **** *   None
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  241:Generated_Source\PSoC4/CapSense_ISR.c **** *   priority: Priority of the interrupt, 0 being the highest priority
  242:Generated_Source\PSoC4/CapSense_ISR.c **** *             PSoC 3 and PSoC 5LP: Priority is from 0 to 7.
  243:Generated_Source\PSoC4/CapSense_ISR.c **** *             PSoC 4: Priority is from 0 to 3.
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 7
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 7
 
 
  244:Generated_Source\PSoC4/CapSense_ISR.c **** *
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  138              		.section	.text.CapSense_ISR_GetPriority,"ax",%progbits
  139              		.align	2
  140              		.global	CapSense_ISR_GetPriority
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 8
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 8
 
 
  141              		.code	16
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  168              		.cfi_endproc
  169              	.LFE8:
  170              		.size	CapSense_ISR_GetPriority, .-CapSense_ISR_GetPriority
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 9
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 9
 
 
  171              		.section	.text.CapSense_ISR_Enable,"ax",%progbits
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  202              		.code	16
  203              		.thumb_func
  204              		.type	CapSense_ISR_GetState, %function
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 10
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 10
 
 
  205              	CapSense_ISR_GetState:
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  238              	CapSense_ISR_Disable:
  239              	.LFB11:
  330:Generated_Source\PSoC4/CapSense_ISR.c **** 
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 11
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 11
 
 
  331:Generated_Source\PSoC4/CapSense_ISR.c **** 
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  273              		.cfi_def_cfa_offset 8
  274              		.cfi_offset 4, -8
  275              		.cfi_offset 14, -4
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 12
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 12
 
 
   59:Generated_Source\PSoC4/CapSense_ISR.c **** 
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  322 0008 2000     		movs	r0, r4
  323 000a FFF7FEFF 		bl	CapSense_ISR_SetVector
  324              	.LVL14:
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 13
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 13
 
 
  108:Generated_Source\PSoC4/CapSense_ISR.c **** 
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  372              		.section	.text.CapSense_ISR_SetPending,"ax",%progbits
  373              		.align	2
  374              		.global	CapSense_ISR_SetPending
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 14
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 14
 
 
  375              		.code	16
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  403              		.code	16
  404              		.thumb_func
  405              		.type	CapSense_ISR_ClearPending, %function
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 15
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 15
 
 
  406              	CapSense_ISR_ClearPending:
@@ -898,29 +898,29 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  435 0004 0400     		.2byte	0x4
  436 0006 00000000 		.4byte	.Ldebug_abbrev0
  437 000a 04       		.byte	0x4
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 16
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 16
 
 
  438 000b 01       		.uleb128 0x1
- 439 000c 7B020000 		.4byte	.LASF36
+ 439 000c 94020000 		.4byte	.LASF36
  440 0010 0C       		.byte	0xc
- 441 0011 2C020000 		.4byte	.LASF37
- 442 0015 46010000 		.4byte	.LASF38
+ 441 0011 45020000 		.4byte	.LASF37
+ 442 0015 A2000000 		.4byte	.LASF38
  443 0019 00000000 		.4byte	.Ldebug_ranges0+0
  444 001d 00000000 		.4byte	0
  445 0021 00000000 		.4byte	.Ldebug_line0
  446 0025 02       		.uleb128 0x2
  447 0026 01       		.byte	0x1
  448 0027 06       		.byte	0x6
- 449 0028 0D030000 		.4byte	.LASF0
+ 449 0028 26030000 		.4byte	.LASF0
  450 002c 02       		.uleb128 0x2
  451 002d 01       		.byte	0x1
  452 002e 08       		.byte	0x8
- 453 002f A2000000 		.4byte	.LASF1
+ 453 002f 33010000 		.4byte	.LASF1
  454 0033 02       		.uleb128 0x2
  455 0034 02       		.byte	0x2
  456 0035 05       		.byte	0x5
- 457 0036 22020000 		.4byte	.LASF2
+ 457 0036 3B020000 		.4byte	.LASF2
  458 003a 02       		.uleb128 0x2
  459 003b 02       		.byte	0x2
  460 003c 07       		.byte	0x7
@@ -928,15 +928,15 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  462 0041 02       		.uleb128 0x2
  463 0042 04       		.byte	0x4
  464 0043 05       		.byte	0x5
- 465 0044 61020000 		.4byte	.LASF4
+ 465 0044 7A020000 		.4byte	.LASF4
  466 0048 02       		.uleb128 0x2
  467 0049 04       		.byte	0x4
  468 004a 07       		.byte	0x7
- 469 004b D5000000 		.4byte	.LASF5
+ 469 004b FF000000 		.4byte	.LASF5
  470 004f 02       		.uleb128 0x2
  471 0050 08       		.byte	0x8
  472 0051 05       		.byte	0x5
- 473 0052 02020000 		.4byte	.LASF6
+ 473 0052 1B020000 		.4byte	.LASF6
  474 0056 02       		.uleb128 0x2
  475 0057 08       		.byte	0x8
  476 0058 07       		.byte	0x7
@@ -948,17 +948,17 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  482 0064 02       		.uleb128 0x2
  483 0065 04       		.byte	0x4
  484 0066 07       		.byte	0x7
- 485 0067 65010000 		.4byte	.LASF8
+ 485 0067 7E010000 		.4byte	.LASF8
  486 006b 04       		.uleb128 0x4
- 487 006c E7000000 		.4byte	.LASF9
+ 487 006c 11010000 		.4byte	.LASF9
  488 0070 02       		.byte	0x2
  489 0071 FB01     		.2byte	0x1fb
  490 0073 2C000000 		.4byte	0x2c
  491 0077 04       		.uleb128 0x4
- 492 0078 2A010000 		.4byte	.LASF10
+ 492 0078 48010000 		.4byte	.LASF10
  493 007c 02       		.byte	0x2
  494 007d FD01     		.2byte	0x1fd
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 17
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 17
 
 
  495 007f 48000000 		.4byte	0x48
@@ -969,11 +969,11 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  500 008a 02       		.uleb128 0x2
  501 008b 08       		.byte	0x8
  502 008c 04       		.byte	0x4
- 503 008d 09010000 		.4byte	.LASF12
+ 503 008d 41010000 		.4byte	.LASF12
  504 0091 02       		.uleb128 0x2
  505 0092 01       		.byte	0x1
  506 0093 08       		.byte	0x8
- 507 0094 6A020000 		.4byte	.LASF13
+ 507 0094 83020000 		.4byte	.LASF13
  508 0098 04       		.uleb128 0x4
  509 0099 00000000 		.4byte	.LASF14
  510 009d 02       		.byte	0x2
@@ -982,7 +982,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  513 00a4 05       		.uleb128 0x5
  514 00a5 77000000 		.4byte	0x77
  515 00a9 04       		.uleb128 0x4
- 516 00aa D7010000 		.4byte	.LASF15
+ 516 00aa F0010000 		.4byte	.LASF15
  517 00ae 02       		.byte	0x2
  518 00af B702     		.2byte	0x2b7
  519 00b1 B5000000 		.4byte	0xb5
@@ -993,13 +993,13 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  524 00bc 02       		.uleb128 0x2
  525 00bd 08       		.byte	0x8
  526 00be 04       		.byte	0x4
- 527 00bf 6F020000 		.4byte	.LASF16
+ 527 00bf 88020000 		.4byte	.LASF16
  528 00c3 02       		.uleb128 0x2
  529 00c4 04       		.byte	0x4
  530 00c5 07       		.byte	0x7
- 531 00c6 E4010000 		.4byte	.LASF17
+ 531 00c6 FD010000 		.4byte	.LASF17
  532 00ca 08       		.uleb128 0x8
- 533 00cb A9010000 		.4byte	.LASF24
+ 533 00cb C2010000 		.4byte	.LASF24
  534 00cf 01       		.byte	0x1
  535 00d0 9F       		.byte	0x9f
  536 00d1 00000000 		.4byte	.LFB4
@@ -1016,9 +1016,9 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  547 00eb 9C       		.byte	0x9c
  548 00ec FE000000 		.4byte	0xfe
  549 00f0 0A       		.uleb128 0xa
- 550 00f1 72010000 		.4byte	.LASF20
+ 550 00f1 8B010000 		.4byte	.LASF20
  551 00f5 01       		.byte	0x1
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 18
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 18
 
 
  552 00f6 C7       		.byte	0xc7
@@ -1036,7 +1036,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  564 0111 01       		.uleb128 0x1
  565 0112 9C       		.byte	0x9c
  566 0113 09       		.uleb128 0x9
- 567 0114 90010000 		.4byte	.LASF19
+ 567 0114 A9010000 		.4byte	.LASF19
  568 0118 01       		.byte	0x1
  569 0119 F9       		.byte	0xf9
  570 011a 00000000 		.4byte	.LFB7
@@ -1045,19 +1045,19 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  573 0123 9C       		.byte	0x9c
  574 0124 65010000 		.4byte	0x165
  575 0128 0C       		.uleb128 0xc
- 576 0129 ED000000 		.4byte	.LASF21
+ 576 0129 17010000 		.4byte	.LASF21
  577 012d 01       		.byte	0x1
  578 012e F9       		.byte	0xf9
  579 012f 6B000000 		.4byte	0x6b
  580 0133 00000000 		.4byte	.LLST0
  581 0137 0D       		.uleb128 0xd
- 582 0138 C6000000 		.4byte	.LASF22
+ 582 0138 F0000000 		.4byte	.LASF22
  583 013c 01       		.byte	0x1
  584 013d FB       		.byte	0xfb
  585 013e 6B000000 		.4byte	0x6b
  586 0142 21000000 		.4byte	.LLST1
  587 0146 0E       		.uleb128 0xe
- 588 0147 52020000 		.4byte	.LASF23
+ 588 0147 6B020000 		.4byte	.LASF23
  589 014b 01       		.byte	0x1
  590 014c FC       		.byte	0xfc
  591 014d 77000000 		.4byte	0x77
@@ -1078,25 +1078,25 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  606 0175 10000000 		.4byte	.LFE8-.LFB8
  607 0179 01       		.uleb128 0x1
  608 017a 9C       		.byte	0x9c
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 19
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 19
 
 
  609 017b 9D010000 		.4byte	0x19d
  610 017f 11       		.uleb128 0x11
- 611 0180 ED000000 		.4byte	.LASF21
+ 611 0180 17010000 		.4byte	.LASF21
  612 0184 01       		.byte	0x1
  613 0185 1701     		.2byte	0x117
  614 0187 77000000 		.4byte	0x77
  615 018b 34000000 		.4byte	.LLST2
  616 018f 12       		.uleb128 0x12
- 617 0190 52020000 		.4byte	.LASF23
+ 617 0190 6B020000 		.4byte	.LASF23
  618 0194 01       		.byte	0x1
  619 0195 1801     		.2byte	0x118
  620 0197 77000000 		.4byte	0x77
  621 019b 16       		.byte	0x16
  622 019c 00       		.byte	0
  623 019d 13       		.uleb128 0x13
- 624 019e 19030000 		.4byte	.LASF25
+ 624 019e 32030000 		.4byte	.LASF25
  625 01a2 01       		.byte	0x1
  626 01a3 3001     		.2byte	0x130
  627 01a5 00000000 		.4byte	.LFB9
@@ -1104,7 +1104,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  629 01ad 01       		.uleb128 0x1
  630 01ae 9C       		.byte	0x9c
  631 01af 14       		.uleb128 0x14
- 632 01b0 B0000000 		.4byte	.LASF27
+ 632 01b0 DA000000 		.4byte	.LASF27
  633 01b4 01       		.byte	0x1
  634 01b5 4501     		.2byte	0x145
  635 01b7 6B000000 		.4byte	0x6b
@@ -1113,7 +1113,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  638 01c3 01       		.uleb128 0x1
  639 01c4 9C       		.byte	0x9c
  640 01c5 13       		.uleb128 0x13
- 641 01c6 ED010000 		.4byte	.LASF28
+ 641 01c6 06020000 		.4byte	.LASF28
  642 01ca 01       		.byte	0x1
  643 01cb 5A01     		.2byte	0x15a
  644 01cd 00000000 		.4byte	.LFB11
@@ -1121,7 +1121,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  646 01d5 01       		.uleb128 0x1
  647 01d6 9C       		.byte	0x9c
  648 01d7 09       		.uleb128 0x9
- 649 01d8 F6000000 		.4byte	.LASF29
+ 649 01d8 20010000 		.4byte	.LASF29
  650 01dc 01       		.byte	0x1
  651 01dd 38       		.byte	0x38
  652 01de 00000000 		.4byte	.LFB1
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  663 01fe 0C020000 		.4byte	0x20c
  664 0202 16       		.uleb128 0x16
  665 0203 01       		.uleb128 0x1
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 20
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 20
 
 
  666 0204 50       		.byte	0x50
@@ -1161,7 +1161,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  683 0224 9D010000 		.4byte	0x19d
  684 0228 00       		.byte	0
  685 0229 09       		.uleb128 0x9
- 686 022a 31010000 		.4byte	.LASF30
+ 686 022a 4F010000 		.4byte	.LASF30
  687 022e 01       		.byte	0x1
  688 022f 63       		.byte	0x63
  689 0230 00000000 		.4byte	.LFB2
@@ -1170,7 +1170,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  692 0239 9C       		.byte	0x9c
  693 023a 87020000 		.4byte	0x287
  694 023e 0C       		.uleb128 0xc
- 695 023f 72010000 		.4byte	.LASF20
+ 695 023f 8B010000 		.4byte	.LASF20
  696 0243 01       		.byte	0x1
  697 0244 63       		.byte	0x63
  698 0245 A9000000 		.4byte	0xa9
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  720 0279 50       		.byte	0x50
  721 027a 01       		.uleb128 0x1
  722 027b 33       		.byte	0x33
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 21
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 21
 
 
  723 027c 00       		.byte	0
@@ -1207,7 +1207,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  726 0282 9D010000 		.4byte	0x19d
  727 0286 00       		.byte	0
  728 0287 09       		.uleb128 0x9
- 729 0288 10020000 		.4byte	.LASF31
+ 729 0288 29020000 		.4byte	.LASF31
  730 028c 01       		.byte	0x1
  731 028d 81       		.byte	0x81
  732 028e 00000000 		.4byte	.LFB3
@@ -1231,7 +1231,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  750 02bf 01       		.uleb128 0x1
  751 02c0 9C       		.byte	0x9c
  752 02c1 13       		.uleb128 0x13
- 753 02c2 10010000 		.4byte	.LASF33
+ 753 02c2 64010000 		.4byte	.LASF33
  754 02c6 01       		.byte	0x1
  755 02c7 8E01     		.2byte	0x18e
  756 02c9 00000000 		.4byte	.LFB13
@@ -1251,14 +1251,14 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  770 02e9 21       		.byte	0x21
  771 02ea D3020000 		.4byte	0x2d3
  772 02ee 1A       		.uleb128 0x1a
- 773 02ef C0010000 		.4byte	.LASF34
- 774 02f3 C0010000 		.4byte	.LASF34
+ 773 02ef D9010000 		.4byte	.LASF34
+ 774 02f3 D9010000 		.4byte	.LASF34
  775 02f7 03       		.byte	0x3
  776 02f8 F8       		.byte	0xf8
  777 02f9 1A       		.uleb128 0x1a
- 778 02fa 7A010000 		.4byte	.LASF35
- 779 02fe 7A010000 		.4byte	.LASF35
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 22
+ 778 02fa 93010000 		.4byte	.LASF35
+ 779 02fe 93010000 		.4byte	.LASF35
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 22
 
 
  780 0302 03       		.byte	0x3
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  834 0031 05       		.uleb128 0x5
  835 0032 49       		.uleb128 0x49
  836 0033 13       		.uleb128 0x13
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 23
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 23
 
 
  837 0034 00       		.byte	0
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  891 006b 0E       		.uleb128 0xe
  892 006c 3A       		.uleb128 0x3a
  893 006d 0B       		.uleb128 0xb
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 24
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 24
 
 
  894 006e 3B       		.uleb128 0x3b
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  948 00a6 00       		.byte	0
  949 00a7 00       		.byte	0
  950 00a8 0C       		.uleb128 0xc
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 25
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 25
 
 
  951 00a9 05       		.uleb128 0x5
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  1005 00e1 2E       		.uleb128 0x2e
  1006 00e2 01       		.byte	0x1
  1007 00e3 3F       		.uleb128 0x3f
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 26
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 26
 
 
  1008 00e4 19       		.uleb128 0x19
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  1062 011b 2E       		.uleb128 0x2e
  1063 011c 00       		.byte	0
  1064 011d 3F       		.uleb128 0x3f
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 27
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 27
 
 
  1065 011e 19       		.uleb128 0x19
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  1119 0158 00       		.byte	0
  1120 0159 16       		.uleb128 0x16
  1121 015a 8A8201   		.uleb128 0x410a
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 28
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 28
 
 
  1122 015d 00       		.byte	0
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  1176 0194 0B       		.uleb128 0xb
  1177 0195 3B       		.uleb128 0x3b
  1178 0196 0B       		.uleb128 0xb
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 29
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 29
 
 
  1179 0197 00       		.byte	0
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  1233 0077 01       		.uleb128 0x1
  1234 0078 50       		.byte	0x50
  1235 0079 9F       		.byte	0x9f
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 30
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 30
 
 
  1236 007a 00000000 		.4byte	0
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  1290 0038 00000000 		.4byte	.LFB11
  1291 003c 10000000 		.4byte	.LFE11
  1292 0040 00000000 		.4byte	.LFB1
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 31
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 31
 
 
  1293 0044 1C000000 		.4byte	.LFE1
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  1322 0073 6C6F6E67 		.ascii	"long long unsigned int\000"
  1322      206C6F6E 
  1322      6720756E 
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 32
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 32
 
 
  1322      7369676E 
@@ -1869,182 +1869,185 @@ ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 1
  1324      5F495352 
  1324      5F536574 
  1324      50656E64 
- 1325              	.LASF1:
- 1326 00a2 756E7369 		.ascii	"unsigned char\000"
- 1326      676E6564 
- 1326      20636861 
- 1326      7200
- 1327              	.LASF27:
- 1328 00b0 43617053 		.ascii	"CapSense_ISR_GetState\000"
- 1328      656E7365 
- 1328      5F495352 
- 1328      5F476574 
- 1328      53746174 
- 1329              	.LASF22:
- 1330 00c6 696E7465 		.ascii	"interruptState\000"
- 1330      72727570 
- 1330      74537461 
- 1330      746500
- 1331              	.LASF5:
- 1332 00d5 6C6F6E67 		.ascii	"long unsigned int\000"
- 1332      20756E73 
- 1332      69676E65 
- 1332      6420696E 
- 1332      7400
- 1333              	.LASF9:
- 1334 00e7 75696E74 		.ascii	"uint8\000"
- 1334      3800
- 1335              	.LASF21:
- 1336 00ed 7072696F 		.ascii	"priority\000"
- 1336      72697479 
- 1336      00
- 1337              	.LASF29:
- 1338 00f6 43617053 		.ascii	"CapSense_ISR_Start\000"
- 1338      656E7365 
- 1338      5F495352 
- 1338      5F537461 
- 1338      727400
- 1339              	.LASF12:
- 1340 0109 646F7562 		.ascii	"double\000"
- 1340      6C6500
- 1341              	.LASF33:
- 1342 0110 43617053 		.ascii	"CapSense_ISR_ClearPending\000"
- 1342      656E7365 
- 1342      5F495352 
- 1342      5F436C65 
- 1342      61725065 
- 1343              	.LASF10:
- 1344 012a 75696E74 		.ascii	"uint32\000"
- 1344      333200
- 1345              	.LASF30:
- 1346 0131 43617053 		.ascii	"CapSense_ISR_StartEx\000"
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 33
+ 1325              	.LASF38:
+ 1326 00a2 433A5C55 		.ascii	"C:\\Users\\adstrumwin\\Desktop\\CapSense_Tasks\\Tas"
+ 1326      73657273 
+ 1326      5C616473 
+ 1326      7472756D 
+ 1326      77696E5C 
+ 1327 00d0 6B5F322E 		.ascii	"k_2.cydsn\000"
+ 1327      63796473 
+ 1327      6E00
+ 1328              	.LASF27:
+ 1329 00da 43617053 		.ascii	"CapSense_ISR_GetState\000"
+ 1329      656E7365 
+ 1329      5F495352 
+ 1329      5F476574 
+ 1329      53746174 
+ 1330              	.LASF22:
+ 1331 00f0 696E7465 		.ascii	"interruptState\000"
+ 1331      72727570 
+ 1331      74537461 
+ 1331      746500
+ 1332              	.LASF5:
+ 1333 00ff 6C6F6E67 		.ascii	"long unsigned int\000"
+ 1333      20756E73 
+ 1333      69676E65 
+ 1333      6420696E 
+ 1333      7400
+ 1334              	.LASF9:
+ 1335 0111 75696E74 		.ascii	"uint8\000"
+ 1335      3800
+ 1336              	.LASF21:
+ 1337 0117 7072696F 		.ascii	"priority\000"
+ 1337      72697479 
+ 1337      00
+ 1338              	.LASF29:
+ 1339 0120 43617053 		.ascii	"CapSense_ISR_Start\000"
+ 1339      656E7365 
+ 1339      5F495352 
+ 1339      5F537461 
+ 1339      727400
+ 1340              	.LASF1:
+ 1341 0133 756E7369 		.ascii	"unsigned char\000"
+ 1341      676E6564 
+ 1341      20636861 
+ 1341      7200
+ 1342              	.LASF12:
+ 1343 0141 646F7562 		.ascii	"double\000"
+ 1343      6C6500
+ 1344              	.LASF10:
+ 1345 0148 75696E74 		.ascii	"uint32\000"
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 33
 
 
- 1346      656E7365 
- 1346      5F495352 
- 1346      5F537461 
- 1346      72744578 
- 1347              	.LASF38:
- 1348 0146 463A5C43 		.ascii	"F:\\CapSense_Tasks\\Task_2.cydsn\000"
- 1348      61705365 
- 1348      6E73655F 
- 1348      5461736B 
- 1348      735C5461 
- 1349              	.LASF8:
- 1350 0165 756E7369 		.ascii	"unsigned int\000"
- 1350      676E6564 
- 1350      20696E74 
- 1350      00
- 1351              	.LASF20:
- 1352 0172 61646472 		.ascii	"address\000"
- 1352      65737300 
- 1353              	.LASF35:
- 1354 017a 43794578 		.ascii	"CyExitCriticalSection\000"
- 1354      69744372 
- 1354      69746963 
- 1354      616C5365 
- 1354      6374696F 
- 1355              	.LASF19:
- 1356 0190 43617053 		.ascii	"CapSense_ISR_SetPriority\000"
- 1356      656E7365 
- 1356      5F495352 
- 1356      5F536574 
- 1356      5072696F 
- 1357              	.LASF24:
- 1358 01a9 43617053 		.ascii	"CapSense_ISR_Interrupt\000"
- 1358      656E7365 
- 1358      5F495352 
- 1358      5F496E74 
- 1358      65727275 
- 1359              	.LASF34:
- 1360 01c0 4379456E 		.ascii	"CyEnterCriticalSection\000"
- 1360      74657243 
- 1360      72697469 
- 1360      63616C53 
- 1360      65637469 
- 1361              	.LASF15:
- 1362 01d7 63796973 		.ascii	"cyisraddress\000"
- 1362      72616464 
- 1362      72657373 
- 1362      00
- 1363              	.LASF17:
- 1364 01e4 73697A65 		.ascii	"sizetype\000"
- 1364      74797065 
- 1364      00
- 1365              	.LASF28:
- 1366 01ed 43617053 		.ascii	"CapSense_ISR_Disable\000"
- 1366      656E7365 
- 1366      5F495352 
- 1366      5F446973 
- 1366      61626C65 
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 34
+ 1345      333200
+ 1346              	.LASF30:
+ 1347 014f 43617053 		.ascii	"CapSense_ISR_StartEx\000"
+ 1347      656E7365 
+ 1347      5F495352 
+ 1347      5F537461 
+ 1347      72744578 
+ 1348              	.LASF33:
+ 1349 0164 43617053 		.ascii	"CapSense_ISR_ClearPending\000"
+ 1349      656E7365 
+ 1349      5F495352 
+ 1349      5F436C65 
+ 1349      61725065 
+ 1350              	.LASF8:
+ 1351 017e 756E7369 		.ascii	"unsigned int\000"
+ 1351      676E6564 
+ 1351      20696E74 
+ 1351      00
+ 1352              	.LASF20:
+ 1353 018b 61646472 		.ascii	"address\000"
+ 1353      65737300 
+ 1354              	.LASF35:
+ 1355 0193 43794578 		.ascii	"CyExitCriticalSection\000"
+ 1355      69744372 
+ 1355      69746963 
+ 1355      616C5365 
+ 1355      6374696F 
+ 1356              	.LASF19:
+ 1357 01a9 43617053 		.ascii	"CapSense_ISR_SetPriority\000"
+ 1357      656E7365 
+ 1357      5F495352 
+ 1357      5F536574 
+ 1357      5072696F 
+ 1358              	.LASF24:
+ 1359 01c2 43617053 		.ascii	"CapSense_ISR_Interrupt\000"
+ 1359      656E7365 
+ 1359      5F495352 
+ 1359      5F496E74 
+ 1359      65727275 
+ 1360              	.LASF34:
+ 1361 01d9 4379456E 		.ascii	"CyEnterCriticalSection\000"
+ 1361      74657243 
+ 1361      72697469 
+ 1361      63616C53 
+ 1361      65637469 
+ 1362              	.LASF15:
+ 1363 01f0 63796973 		.ascii	"cyisraddress\000"
+ 1363      72616464 
+ 1363      72657373 
+ 1363      00
+ 1364              	.LASF17:
+ 1365 01fd 73697A65 		.ascii	"sizetype\000"
+ 1365      74797065 
+ 1365      00
+ 1366              	.LASF28:
+ 1367 0206 43617053 		.ascii	"CapSense_ISR_Disable\000"
+ 1367      656E7365 
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 34
 
 
- 1367              	.LASF6:
- 1368 0202 6C6F6E67 		.ascii	"long long int\000"
- 1368      206C6F6E 
- 1368      6720696E 
- 1368      7400
- 1369              	.LASF31:
- 1370 0210 43617053 		.ascii	"CapSense_ISR_Stop\000"
- 1370      656E7365 
- 1370      5F495352 
- 1370      5F53746F 
- 1370      7000
- 1371              	.LASF2:
- 1372 0222 73686F72 		.ascii	"short int\000"
- 1372      7420696E 
- 1372      7400
- 1373              	.LASF37:
- 1374 022c 47656E65 		.ascii	"Generated_Source\\PSoC4\\CapSense_ISR.c\000"
- 1374      72617465 
- 1374      645F536F 
- 1374      75726365 
- 1374      5C50536F 
- 1375              	.LASF23:
- 1376 0252 7072696F 		.ascii	"priorityOffset\000"
- 1376      72697479 
- 1376      4F666673 
- 1376      657400
- 1377              	.LASF4:
- 1378 0261 6C6F6E67 		.ascii	"long int\000"
- 1378      20696E74 
- 1378      00
- 1379              	.LASF13:
- 1380 026a 63686172 		.ascii	"char\000"
- 1380      00
- 1381              	.LASF16:
- 1382 026f 6C6F6E67 		.ascii	"long double\000"
- 1382      20646F75 
- 1382      626C6500 
- 1383              	.LASF36:
- 1384 027b 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
- 1384      43313120 
- 1384      352E342E 
- 1384      31203230 
- 1384      31363036 
- 1385 02ae 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m0plus -mthumb -"
- 1385      20726576 
- 1385      6973696F 
- 1385      6E203233 
- 1385      37373135 
- 1386 02e1 67202D4F 		.ascii	"g -Og -ffunction-sections -ffat-lto-objects\000"
- 1386      67202D66 
- 1386      66756E63 
- 1386      74696F6E 
- 1386      2D736563 
- 1387              	.LASF0:
- 1388 030d 7369676E 		.ascii	"signed char\000"
- 1388      65642063 
- 1388      68617200 
-ARM GAS  C:\Users\adm\AppData\Local\Temp\ccf0NOO6.s 			page 35
+ 1367      5F495352 
+ 1367      5F446973 
+ 1367      61626C65 
+ 1368              	.LASF6:
+ 1369 021b 6C6F6E67 		.ascii	"long long int\000"
+ 1369      206C6F6E 
+ 1369      6720696E 
+ 1369      7400
+ 1370              	.LASF31:
+ 1371 0229 43617053 		.ascii	"CapSense_ISR_Stop\000"
+ 1371      656E7365 
+ 1371      5F495352 
+ 1371      5F53746F 
+ 1371      7000
+ 1372              	.LASF2:
+ 1373 023b 73686F72 		.ascii	"short int\000"
+ 1373      7420696E 
+ 1373      7400
+ 1374              	.LASF37:
+ 1375 0245 47656E65 		.ascii	"Generated_Source\\PSoC4\\CapSense_ISR.c\000"
+ 1375      72617465 
+ 1375      645F536F 
+ 1375      75726365 
+ 1375      5C50536F 
+ 1376              	.LASF23:
+ 1377 026b 7072696F 		.ascii	"priorityOffset\000"
+ 1377      72697479 
+ 1377      4F666673 
+ 1377      657400
+ 1378              	.LASF4:
+ 1379 027a 6C6F6E67 		.ascii	"long int\000"
+ 1379      20696E74 
+ 1379      00
+ 1380              	.LASF13:
+ 1381 0283 63686172 		.ascii	"char\000"
+ 1381      00
+ 1382              	.LASF16:
+ 1383 0288 6C6F6E67 		.ascii	"long double\000"
+ 1383      20646F75 
+ 1383      626C6500 
+ 1384              	.LASF36:
+ 1385 0294 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
+ 1385      43313120 
+ 1385      352E342E 
+ 1385      31203230 
+ 1385      31363036 
+ 1386 02c7 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m0plus -mthumb -"
+ 1386      20726576 
+ 1386      6973696F 
+ 1386      6E203233 
+ 1386      37373135 
+ 1387 02fa 67202D4F 		.ascii	"g -Og -ffunction-sections -ffat-lto-objects\000"
+ 1387      67202D66 
+ 1387      66756E63 
+ 1387      74696F6E 
+ 1387      2D736563 
+ 1388              	.LASF0:
+ARM GAS  C:\Users\ADSTRU~1\AppData\Local\Temp\cc5GSEF8.s 			page 35
 
 
- 1389              	.LASF25:
- 1390 0319 43617053 		.ascii	"CapSense_ISR_Enable\000"
- 1390      656E7365 
- 1390      5F495352 
- 1390      5F456E61 
- 1390      626C6500 
- 1391              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran
+ 1389 0326 7369676E 		.ascii	"signed char\000"
+ 1389      65642063 
+ 1389      68617200 
+ 1390              	.LASF25:
+ 1391 0332 43617053 		.ascii	"CapSense_ISR_Enable\000"
+ 1391      656E7365 
+ 1391      5F495352 
+ 1391      5F456E61 
+ 1391      626C6500 
+ 1392              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran

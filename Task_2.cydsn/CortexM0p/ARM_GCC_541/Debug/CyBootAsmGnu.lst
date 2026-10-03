@@ -3499,11 +3499,11 @@ ARM GAS  Generated_Source\PSoC4\CyBootAsmGnu.s 			page 1
  3285              	.set CYREG_SCB1_EZ_DATA031, CYREG_SCB1_EZ_DATA31
   20              	
   21              	/* UART_rx */
-  22              	.set UART_rx__0__DR, CYREG_GPIO_PRT1_DR
-  23              	.set UART_rx__0__DR_CLR, CYREG_GPIO_PRT1_DR_CLR
-  24              	.set UART_rx__0__DR_INV, CYREG_GPIO_PRT1_DR_INV
-  25              	.set UART_rx__0__DR_SET, CYREG_GPIO_PRT1_DR_SET
-  26              	.set UART_rx__0__HSIOM, CYREG_HSIOM_PORT_SEL1
+  22              	.set UART_rx__0__DR, CYREG_GPIO_PRT3_DR
+  23              	.set UART_rx__0__DR_CLR, CYREG_GPIO_PRT3_DR_CLR
+  24              	.set UART_rx__0__DR_INV, CYREG_GPIO_PRT3_DR_INV
+  25              	.set UART_rx__0__DR_SET, CYREG_GPIO_PRT3_DR_SET
+  26              	.set UART_rx__0__HSIOM, CYREG_HSIOM_PORT_SEL3
   27              	.set UART_rx__0__HSIOM_GPIO, 0
   28              	.set UART_rx__0__HSIOM_I2C, 14
   29              	.set UART_rx__0__HSIOM_I2C_SCL, 14
@@ -3513,134 +3513,134 @@ ARM GAS  Generated_Source\PSoC4\CyBootAsmGnu.s 			page 1
   33              	.set UART_rx__0__HSIOM_SPI_MOSI, 15
   34              	.set UART_rx__0__HSIOM_UART, 9
   35              	.set UART_rx__0__HSIOM_UART_RX, 9
-  36              	.set UART_rx__0__INTCFG, CYREG_GPIO_PRT1_INTR_CFG
-  37              	.set UART_rx__0__INTR, CYREG_GPIO_PRT1_INTR
-  38              	.set UART_rx__0__INTR_CFG, CYREG_GPIO_PRT1_INTR_CFG
-  39              	.set UART_rx__0__INTSTAT, CYREG_GPIO_PRT1_INTR
+  36              	.set UART_rx__0__INTCFG, CYREG_GPIO_PRT3_INTR_CFG
+  37              	.set UART_rx__0__INTR, CYREG_GPIO_PRT3_INTR
+  38              	.set UART_rx__0__INTR_CFG, CYREG_GPIO_PRT3_INTR_CFG
+  39              	.set UART_rx__0__INTSTAT, CYREG_GPIO_PRT3_INTR
   40              	.set UART_rx__0__MASK, 0x01
-  41              	.set UART_rx__0__PC, CYREG_GPIO_PRT1_PC
-  42              	.set UART_rx__0__PC2, CYREG_GPIO_PRT1_PC2
-  43              	.set UART_rx__0__PORT, 1
-  44              	.set UART_rx__0__PS, CYREG_GPIO_PRT1_PS
+  41              	.set UART_rx__0__PC, CYREG_GPIO_PRT3_PC
+  42              	.set UART_rx__0__PC2, CYREG_GPIO_PRT3_PC2
+  43              	.set UART_rx__0__PORT, 3
+  44              	.set UART_rx__0__PS, CYREG_GPIO_PRT3_PS
   45              	.set UART_rx__0__SHIFT, 0
-  46              	.set UART_rx__DR, CYREG_GPIO_PRT1_DR
-  47              	.set UART_rx__DR_CLR, CYREG_GPIO_PRT1_DR_CLR
-  48              	.set UART_rx__DR_INV, CYREG_GPIO_PRT1_DR_INV
-  49              	.set UART_rx__DR_SET, CYREG_GPIO_PRT1_DR_SET
-  50              	.set UART_rx__INTCFG, CYREG_GPIO_PRT1_INTR_CFG
-  51              	.set UART_rx__INTR, CYREG_GPIO_PRT1_INTR
-  52              	.set UART_rx__INTR_CFG, CYREG_GPIO_PRT1_INTR_CFG
-  53              	.set UART_rx__INTSTAT, CYREG_GPIO_PRT1_INTR
+  46              	.set UART_rx__DR, CYREG_GPIO_PRT3_DR
+  47              	.set UART_rx__DR_CLR, CYREG_GPIO_PRT3_DR_CLR
+  48              	.set UART_rx__DR_INV, CYREG_GPIO_PRT3_DR_INV
+  49              	.set UART_rx__DR_SET, CYREG_GPIO_PRT3_DR_SET
+  50              	.set UART_rx__INTCFG, CYREG_GPIO_PRT3_INTR_CFG
+  51              	.set UART_rx__INTR, CYREG_GPIO_PRT3_INTR
+  52              	.set UART_rx__INTR_CFG, CYREG_GPIO_PRT3_INTR_CFG
+  53              	.set UART_rx__INTSTAT, CYREG_GPIO_PRT3_INTR
   54              	.set UART_rx__MASK, 0x01
-  55              	.set UART_rx__PC, CYREG_GPIO_PRT1_PC
-  56              	.set UART_rx__PC2, CYREG_GPIO_PRT1_PC2
-  57              	.set UART_rx__PORT, 1
-  58              	.set UART_rx__PS, CYREG_GPIO_PRT1_PS
+  55              	.set UART_rx__PC, CYREG_GPIO_PRT3_PC
+  56              	.set UART_rx__PC2, CYREG_GPIO_PRT3_PC2
+  57              	.set UART_rx__PORT, 3
+  58              	.set UART_rx__PS, CYREG_GPIO_PRT3_PS
   59              	.set UART_rx__SHIFT, 0
   60              	
 ARM GAS  Generated_Source\PSoC4\CyBootAsmGnu.s 			page 60
 
 
   61              	/* UART_SCB */
-  62              	.set UART_SCB__CTRL, CYREG_SCB0_CTRL
-  63              	.set UART_SCB__EZ_DATA0, CYREG_SCB0_EZ_DATA0
-  64              	.set UART_SCB__EZ_DATA1, CYREG_SCB0_EZ_DATA1
-  65              	.set UART_SCB__EZ_DATA10, CYREG_SCB0_EZ_DATA10
-  66              	.set UART_SCB__EZ_DATA11, CYREG_SCB0_EZ_DATA11
-  67              	.set UART_SCB__EZ_DATA12, CYREG_SCB0_EZ_DATA12
-  68              	.set UART_SCB__EZ_DATA13, CYREG_SCB0_EZ_DATA13
-  69              	.set UART_SCB__EZ_DATA14, CYREG_SCB0_EZ_DATA14
-  70              	.set UART_SCB__EZ_DATA15, CYREG_SCB0_EZ_DATA15
-  71              	.set UART_SCB__EZ_DATA16, CYREG_SCB0_EZ_DATA16
-  72              	.set UART_SCB__EZ_DATA17, CYREG_SCB0_EZ_DATA17
-  73              	.set UART_SCB__EZ_DATA18, CYREG_SCB0_EZ_DATA18
-  74              	.set UART_SCB__EZ_DATA19, CYREG_SCB0_EZ_DATA19
-  75              	.set UART_SCB__EZ_DATA2, CYREG_SCB0_EZ_DATA2
-  76              	.set UART_SCB__EZ_DATA20, CYREG_SCB0_EZ_DATA20
-  77              	.set UART_SCB__EZ_DATA21, CYREG_SCB0_EZ_DATA21
-  78              	.set UART_SCB__EZ_DATA22, CYREG_SCB0_EZ_DATA22
-  79              	.set UART_SCB__EZ_DATA23, CYREG_SCB0_EZ_DATA23
-  80              	.set UART_SCB__EZ_DATA24, CYREG_SCB0_EZ_DATA24
-  81              	.set UART_SCB__EZ_DATA25, CYREG_SCB0_EZ_DATA25
-  82              	.set UART_SCB__EZ_DATA26, CYREG_SCB0_EZ_DATA26
-  83              	.set UART_SCB__EZ_DATA27, CYREG_SCB0_EZ_DATA27
-  84              	.set UART_SCB__EZ_DATA28, CYREG_SCB0_EZ_DATA28
-  85              	.set UART_SCB__EZ_DATA29, CYREG_SCB0_EZ_DATA29
-  86              	.set UART_SCB__EZ_DATA3, CYREG_SCB0_EZ_DATA3
-  87              	.set UART_SCB__EZ_DATA30, CYREG_SCB0_EZ_DATA30
-  88              	.set UART_SCB__EZ_DATA31, CYREG_SCB0_EZ_DATA31
-  89              	.set UART_SCB__EZ_DATA4, CYREG_SCB0_EZ_DATA4
-  90              	.set UART_SCB__EZ_DATA5, CYREG_SCB0_EZ_DATA5
-  91              	.set UART_SCB__EZ_DATA6, CYREG_SCB0_EZ_DATA6
-  92              	.set UART_SCB__EZ_DATA7, CYREG_SCB0_EZ_DATA7
-  93              	.set UART_SCB__EZ_DATA8, CYREG_SCB0_EZ_DATA8
-  94              	.set UART_SCB__EZ_DATA9, CYREG_SCB0_EZ_DATA9
-  95              	.set UART_SCB__I2C_CFG, CYREG_SCB0_I2C_CFG
-  96              	.set UART_SCB__I2C_CTRL, CYREG_SCB0_I2C_CTRL
-  97              	.set UART_SCB__I2C_M_CMD, CYREG_SCB0_I2C_M_CMD
-  98              	.set UART_SCB__I2C_S_CMD, CYREG_SCB0_I2C_S_CMD
-  99              	.set UART_SCB__I2C_STATUS, CYREG_SCB0_I2C_STATUS
- 100              	.set UART_SCB__INTR_CAUSE, CYREG_SCB0_INTR_CAUSE
- 101              	.set UART_SCB__INTR_I2C_EC, CYREG_SCB0_INTR_I2C_EC
- 102              	.set UART_SCB__INTR_I2C_EC_MASK, CYREG_SCB0_INTR_I2C_EC_MASK
- 103              	.set UART_SCB__INTR_I2C_EC_MASKED, CYREG_SCB0_INTR_I2C_EC_MASKED
- 104              	.set UART_SCB__INTR_M, CYREG_SCB0_INTR_M
- 105              	.set UART_SCB__INTR_M_MASK, CYREG_SCB0_INTR_M_MASK
- 106              	.set UART_SCB__INTR_M_MASKED, CYREG_SCB0_INTR_M_MASKED
- 107              	.set UART_SCB__INTR_M_SET, CYREG_SCB0_INTR_M_SET
- 108              	.set UART_SCB__INTR_RX, CYREG_SCB0_INTR_RX
- 109              	.set UART_SCB__INTR_RX_MASK, CYREG_SCB0_INTR_RX_MASK
- 110              	.set UART_SCB__INTR_RX_MASKED, CYREG_SCB0_INTR_RX_MASKED
- 111              	.set UART_SCB__INTR_RX_SET, CYREG_SCB0_INTR_RX_SET
- 112              	.set UART_SCB__INTR_S, CYREG_SCB0_INTR_S
- 113              	.set UART_SCB__INTR_S_MASK, CYREG_SCB0_INTR_S_MASK
- 114              	.set UART_SCB__INTR_S_MASKED, CYREG_SCB0_INTR_S_MASKED
- 115              	.set UART_SCB__INTR_S_SET, CYREG_SCB0_INTR_S_SET
- 116              	.set UART_SCB__INTR_SPI_EC, CYREG_SCB0_INTR_SPI_EC
- 117              	.set UART_SCB__INTR_SPI_EC_MASK, CYREG_SCB0_INTR_SPI_EC_MASK
+  62              	.set UART_SCB__CTRL, CYREG_SCB1_CTRL
+  63              	.set UART_SCB__EZ_DATA0, CYREG_SCB1_EZ_DATA0
+  64              	.set UART_SCB__EZ_DATA1, CYREG_SCB1_EZ_DATA1
+  65              	.set UART_SCB__EZ_DATA10, CYREG_SCB1_EZ_DATA10
+  66              	.set UART_SCB__EZ_DATA11, CYREG_SCB1_EZ_DATA11
+  67              	.set UART_SCB__EZ_DATA12, CYREG_SCB1_EZ_DATA12
+  68              	.set UART_SCB__EZ_DATA13, CYREG_SCB1_EZ_DATA13
+  69              	.set UART_SCB__EZ_DATA14, CYREG_SCB1_EZ_DATA14
+  70              	.set UART_SCB__EZ_DATA15, CYREG_SCB1_EZ_DATA15
+  71              	.set UART_SCB__EZ_DATA16, CYREG_SCB1_EZ_DATA16
+  72              	.set UART_SCB__EZ_DATA17, CYREG_SCB1_EZ_DATA17
+  73              	.set UART_SCB__EZ_DATA18, CYREG_SCB1_EZ_DATA18
+  74              	.set UART_SCB__EZ_DATA19, CYREG_SCB1_EZ_DATA19
+  75              	.set UART_SCB__EZ_DATA2, CYREG_SCB1_EZ_DATA2
+  76              	.set UART_SCB__EZ_DATA20, CYREG_SCB1_EZ_DATA20
+  77              	.set UART_SCB__EZ_DATA21, CYREG_SCB1_EZ_DATA21
+  78              	.set UART_SCB__EZ_DATA22, CYREG_SCB1_EZ_DATA22
+  79              	.set UART_SCB__EZ_DATA23, CYREG_SCB1_EZ_DATA23
+  80              	.set UART_SCB__EZ_DATA24, CYREG_SCB1_EZ_DATA24
+  81              	.set UART_SCB__EZ_DATA25, CYREG_SCB1_EZ_DATA25
+  82              	.set UART_SCB__EZ_DATA26, CYREG_SCB1_EZ_DATA26
+  83              	.set UART_SCB__EZ_DATA27, CYREG_SCB1_EZ_DATA27
+  84              	.set UART_SCB__EZ_DATA28, CYREG_SCB1_EZ_DATA28
+  85              	.set UART_SCB__EZ_DATA29, CYREG_SCB1_EZ_DATA29
+  86              	.set UART_SCB__EZ_DATA3, CYREG_SCB1_EZ_DATA3
+  87              	.set UART_SCB__EZ_DATA30, CYREG_SCB1_EZ_DATA30
+  88              	.set UART_SCB__EZ_DATA31, CYREG_SCB1_EZ_DATA31
+  89              	.set UART_SCB__EZ_DATA4, CYREG_SCB1_EZ_DATA4
+  90              	.set UART_SCB__EZ_DATA5, CYREG_SCB1_EZ_DATA5
+  91              	.set UART_SCB__EZ_DATA6, CYREG_SCB1_EZ_DATA6
+  92              	.set UART_SCB__EZ_DATA7, CYREG_SCB1_EZ_DATA7
+  93              	.set UART_SCB__EZ_DATA8, CYREG_SCB1_EZ_DATA8
+  94              	.set UART_SCB__EZ_DATA9, CYREG_SCB1_EZ_DATA9
+  95              	.set UART_SCB__I2C_CFG, CYREG_SCB1_I2C_CFG
+  96              	.set UART_SCB__I2C_CTRL, CYREG_SCB1_I2C_CTRL
+  97              	.set UART_SCB__I2C_M_CMD, CYREG_SCB1_I2C_M_CMD
+  98              	.set UART_SCB__I2C_S_CMD, CYREG_SCB1_I2C_S_CMD
+  99              	.set UART_SCB__I2C_STATUS, CYREG_SCB1_I2C_STATUS
+ 100              	.set UART_SCB__INTR_CAUSE, CYREG_SCB1_INTR_CAUSE
+ 101              	.set UART_SCB__INTR_I2C_EC, CYREG_SCB1_INTR_I2C_EC
+ 102              	.set UART_SCB__INTR_I2C_EC_MASK, CYREG_SCB1_INTR_I2C_EC_MASK
+ 103              	.set UART_SCB__INTR_I2C_EC_MASKED, CYREG_SCB1_INTR_I2C_EC_MASKED
+ 104              	.set UART_SCB__INTR_M, CYREG_SCB1_INTR_M
+ 105              	.set UART_SCB__INTR_M_MASK, CYREG_SCB1_INTR_M_MASK
+ 106              	.set UART_SCB__INTR_M_MASKED, CYREG_SCB1_INTR_M_MASKED
+ 107              	.set UART_SCB__INTR_M_SET, CYREG_SCB1_INTR_M_SET
+ 108              	.set UART_SCB__INTR_RX, CYREG_SCB1_INTR_RX
+ 109              	.set UART_SCB__INTR_RX_MASK, CYREG_SCB1_INTR_RX_MASK
+ 110              	.set UART_SCB__INTR_RX_MASKED, CYREG_SCB1_INTR_RX_MASKED
+ 111              	.set UART_SCB__INTR_RX_SET, CYREG_SCB1_INTR_RX_SET
+ 112              	.set UART_SCB__INTR_S, CYREG_SCB1_INTR_S
+ 113              	.set UART_SCB__INTR_S_MASK, CYREG_SCB1_INTR_S_MASK
+ 114              	.set UART_SCB__INTR_S_MASKED, CYREG_SCB1_INTR_S_MASKED
+ 115              	.set UART_SCB__INTR_S_SET, CYREG_SCB1_INTR_S_SET
+ 116              	.set UART_SCB__INTR_SPI_EC, CYREG_SCB1_INTR_SPI_EC
+ 117              	.set UART_SCB__INTR_SPI_EC_MASK, CYREG_SCB1_INTR_SPI_EC_MASK
 ARM GAS  Generated_Source\PSoC4\CyBootAsmGnu.s 			page 61
 
 
- 118              	.set UART_SCB__INTR_SPI_EC_MASKED, CYREG_SCB0_INTR_SPI_EC_MASKED
- 119              	.set UART_SCB__INTR_TX, CYREG_SCB0_INTR_TX
- 120              	.set UART_SCB__INTR_TX_MASK, CYREG_SCB0_INTR_TX_MASK
- 121              	.set UART_SCB__INTR_TX_MASKED, CYREG_SCB0_INTR_TX_MASKED
- 122              	.set UART_SCB__INTR_TX_SET, CYREG_SCB0_INTR_TX_SET
- 123              	.set UART_SCB__RX_CTRL, CYREG_SCB0_RX_CTRL
- 124              	.set UART_SCB__RX_FIFO_CTRL, CYREG_SCB0_RX_FIFO_CTRL
- 125              	.set UART_SCB__RX_FIFO_RD, CYREG_SCB0_RX_FIFO_RD
- 126              	.set UART_SCB__RX_FIFO_RD_SILENT, CYREG_SCB0_RX_FIFO_RD_SILENT
- 127              	.set UART_SCB__RX_FIFO_STATUS, CYREG_SCB0_RX_FIFO_STATUS
- 128              	.set UART_SCB__RX_MATCH, CYREG_SCB0_RX_MATCH
- 129              	.set UART_SCB__SPI_CTRL, CYREG_SCB0_SPI_CTRL
- 130              	.set UART_SCB__SPI_STATUS, CYREG_SCB0_SPI_STATUS
+ 118              	.set UART_SCB__INTR_SPI_EC_MASKED, CYREG_SCB1_INTR_SPI_EC_MASKED
+ 119              	.set UART_SCB__INTR_TX, CYREG_SCB1_INTR_TX
+ 120              	.set UART_SCB__INTR_TX_MASK, CYREG_SCB1_INTR_TX_MASK
+ 121              	.set UART_SCB__INTR_TX_MASKED, CYREG_SCB1_INTR_TX_MASKED
+ 122              	.set UART_SCB__INTR_TX_SET, CYREG_SCB1_INTR_TX_SET
+ 123              	.set UART_SCB__RX_CTRL, CYREG_SCB1_RX_CTRL
+ 124              	.set UART_SCB__RX_FIFO_CTRL, CYREG_SCB1_RX_FIFO_CTRL
+ 125              	.set UART_SCB__RX_FIFO_RD, CYREG_SCB1_RX_FIFO_RD
+ 126              	.set UART_SCB__RX_FIFO_RD_SILENT, CYREG_SCB1_RX_FIFO_RD_SILENT
+ 127              	.set UART_SCB__RX_FIFO_STATUS, CYREG_SCB1_RX_FIFO_STATUS
+ 128              	.set UART_SCB__RX_MATCH, CYREG_SCB1_RX_MATCH
+ 129              	.set UART_SCB__SPI_CTRL, CYREG_SCB1_SPI_CTRL
+ 130              	.set UART_SCB__SPI_STATUS, CYREG_SCB1_SPI_STATUS
  131              	.set UART_SCB__SS0_POSISTION, 0
  132              	.set UART_SCB__SS1_POSISTION, 1
  133              	.set UART_SCB__SS2_POSISTION, 2
  134              	.set UART_SCB__SS3_POSISTION, 3
- 135              	.set UART_SCB__STATUS, CYREG_SCB0_STATUS
- 136              	.set UART_SCB__TX_CTRL, CYREG_SCB0_TX_CTRL
- 137              	.set UART_SCB__TX_FIFO_CTRL, CYREG_SCB0_TX_FIFO_CTRL
- 138              	.set UART_SCB__TX_FIFO_STATUS, CYREG_SCB0_TX_FIFO_STATUS
- 139              	.set UART_SCB__TX_FIFO_WR, CYREG_SCB0_TX_FIFO_WR
- 140              	.set UART_SCB__UART_CTRL, CYREG_SCB0_UART_CTRL
- 141              	.set UART_SCB__UART_FLOW_CTRL, CYREG_SCB0_UART_FLOW_CTRL
- 142              	.set UART_SCB__UART_RX_CTRL, CYREG_SCB0_UART_RX_CTRL
- 143              	.set UART_SCB__UART_RX_STATUS, CYREG_SCB0_UART_RX_STATUS
- 144              	.set UART_SCB__UART_TX_CTRL, CYREG_SCB0_UART_TX_CTRL
+ 135              	.set UART_SCB__STATUS, CYREG_SCB1_STATUS
+ 136              	.set UART_SCB__TX_CTRL, CYREG_SCB1_TX_CTRL
+ 137              	.set UART_SCB__TX_FIFO_CTRL, CYREG_SCB1_TX_FIFO_CTRL
+ 138              	.set UART_SCB__TX_FIFO_STATUS, CYREG_SCB1_TX_FIFO_STATUS
+ 139              	.set UART_SCB__TX_FIFO_WR, CYREG_SCB1_TX_FIFO_WR
+ 140              	.set UART_SCB__UART_CTRL, CYREG_SCB1_UART_CTRL
+ 141              	.set UART_SCB__UART_FLOW_CTRL, CYREG_SCB1_UART_FLOW_CTRL
+ 142              	.set UART_SCB__UART_RX_CTRL, CYREG_SCB1_UART_RX_CTRL
+ 143              	.set UART_SCB__UART_RX_STATUS, CYREG_SCB1_UART_RX_STATUS
+ 144              	.set UART_SCB__UART_TX_CTRL, CYREG_SCB1_UART_TX_CTRL
  145              	
  146              	/* UART_SCBCLK */
- 147              	.set UART_SCBCLK__CTRL_REGISTER, CYREG_PERI_PCLK_CTL0
+ 147              	.set UART_SCBCLK__CTRL_REGISTER, CYREG_PERI_PCLK_CTL1
  148              	.set UART_SCBCLK__DIV_ID, 0x00000041
  149              	.set UART_SCBCLK__DIV_REGISTER, CYREG_PERI_DIV_16_CTL1
  150              	.set UART_SCBCLK__PA_DIV_ID, 0x000000FF
  151              	
  152              	/* Miscellaneous */
- 153              	.set UART_tx__0__DR, CYREG_GPIO_PRT1_DR
- 154              	.set UART_tx__0__DR_CLR, CYREG_GPIO_PRT1_DR_CLR
- 155              	.set UART_tx__0__DR_INV, CYREG_GPIO_PRT1_DR_INV
- 156              	.set UART_tx__0__DR_SET, CYREG_GPIO_PRT1_DR_SET
- 157              	.set UART_tx__0__HSIOM, CYREG_HSIOM_PORT_SEL1
+ 153              	.set UART_tx__0__DR, CYREG_GPIO_PRT3_DR
+ 154              	.set UART_tx__0__DR_CLR, CYREG_GPIO_PRT3_DR_CLR
+ 155              	.set UART_tx__0__DR_INV, CYREG_GPIO_PRT3_DR_INV
+ 156              	.set UART_tx__0__DR_SET, CYREG_GPIO_PRT3_DR_SET
+ 157              	.set UART_tx__0__HSIOM, CYREG_HSIOM_PORT_SEL3
  158              	.set UART_tx__0__HSIOM_GPIO, 0
  159              	.set UART_tx__0__HSIOM_I2C, 14
  160              	.set UART_tx__0__HSIOM_I2C_SDA, 14
@@ -3650,32 +3650,32 @@ ARM GAS  Generated_Source\PSoC4\CyBootAsmGnu.s 			page 1
  164              	.set UART_tx__0__HSIOM_SPI_MISO, 15
  165              	.set UART_tx__0__HSIOM_UART, 9
  166              	.set UART_tx__0__HSIOM_UART_TX, 9
- 167              	.set UART_tx__0__INTCFG, CYREG_GPIO_PRT1_INTR_CFG
- 168              	.set UART_tx__0__INTR, CYREG_GPIO_PRT1_INTR
- 169              	.set UART_tx__0__INTR_CFG, CYREG_GPIO_PRT1_INTR_CFG
- 170              	.set UART_tx__0__INTSTAT, CYREG_GPIO_PRT1_INTR
+ 167              	.set UART_tx__0__INTCFG, CYREG_GPIO_PRT3_INTR_CFG
+ 168              	.set UART_tx__0__INTR, CYREG_GPIO_PRT3_INTR
+ 169              	.set UART_tx__0__INTR_CFG, CYREG_GPIO_PRT3_INTR_CFG
+ 170              	.set UART_tx__0__INTSTAT, CYREG_GPIO_PRT3_INTR
  171              	.set UART_tx__0__MASK, 0x02
- 172              	.set UART_tx__0__PC, CYREG_GPIO_PRT1_PC
- 173              	.set UART_tx__0__PC2, CYREG_GPIO_PRT1_PC2
- 174              	.set UART_tx__0__PORT, 1
+ 172              	.set UART_tx__0__PC, CYREG_GPIO_PRT3_PC
+ 173              	.set UART_tx__0__PC2, CYREG_GPIO_PRT3_PC2
+ 174              	.set UART_tx__0__PORT, 3
 ARM GAS  Generated_Source\PSoC4\CyBootAsmGnu.s 			page 62
 
 
- 175              	.set UART_tx__0__PS, CYREG_GPIO_PRT1_PS
+ 175              	.set UART_tx__0__PS, CYREG_GPIO_PRT3_PS
  176              	.set UART_tx__0__SHIFT, 1
- 177              	.set UART_tx__DR, CYREG_GPIO_PRT1_DR
- 178              	.set UART_tx__DR_CLR, CYREG_GPIO_PRT1_DR_CLR
- 179              	.set UART_tx__DR_INV, CYREG_GPIO_PRT1_DR_INV
- 180              	.set UART_tx__DR_SET, CYREG_GPIO_PRT1_DR_SET
- 181              	.set UART_tx__INTCFG, CYREG_GPIO_PRT1_INTR_CFG
- 182              	.set UART_tx__INTR, CYREG_GPIO_PRT1_INTR
- 183              	.set UART_tx__INTR_CFG, CYREG_GPIO_PRT1_INTR_CFG
- 184              	.set UART_tx__INTSTAT, CYREG_GPIO_PRT1_INTR
+ 177              	.set UART_tx__DR, CYREG_GPIO_PRT3_DR
+ 178              	.set UART_tx__DR_CLR, CYREG_GPIO_PRT3_DR_CLR
+ 179              	.set UART_tx__DR_INV, CYREG_GPIO_PRT3_DR_INV
+ 180              	.set UART_tx__DR_SET, CYREG_GPIO_PRT3_DR_SET
+ 181              	.set UART_tx__INTCFG, CYREG_GPIO_PRT3_INTR_CFG
+ 182              	.set UART_tx__INTR, CYREG_GPIO_PRT3_INTR
+ 183              	.set UART_tx__INTR_CFG, CYREG_GPIO_PRT3_INTR_CFG
+ 184              	.set UART_tx__INTSTAT, CYREG_GPIO_PRT3_INTR
  185              	.set UART_tx__MASK, 0x02
- 186              	.set UART_tx__PC, CYREG_GPIO_PRT1_PC
- 187              	.set UART_tx__PC2, CYREG_GPIO_PRT1_PC2
- 188              	.set UART_tx__PORT, 1
- 189              	.set UART_tx__PS, CYREG_GPIO_PRT1_PS
+ 186              	.set UART_tx__PC, CYREG_GPIO_PRT3_PC
+ 187              	.set UART_tx__PC2, CYREG_GPIO_PRT3_PC2
+ 188              	.set UART_tx__PORT, 3
+ 189              	.set UART_tx__PS, CYREG_GPIO_PRT3_PS
  190              	.set UART_tx__SHIFT, 1
  191              	.set CapSense_Cmod__0__DR, CYREG_GPIO_PRT4_DR
  192              	.set CapSense_Cmod__0__DR_CLR, CYREG_GPIO_PRT4_DR_CLR

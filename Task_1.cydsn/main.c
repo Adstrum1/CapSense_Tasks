@@ -7,8 +7,9 @@ int main(void)
     uint16 oldslidervalue = 0xFFFF;
     char msg[16];
     
+    CyGlobalIntEnable;
     
-    UART_Init();
+   // UART_Init();
     
     __enable_irq();
     UART_Start();
@@ -16,12 +17,11 @@ int main(void)
     CapSense_ScanAllWidgets();
     UART_UartPutString("Started\n");
 
-
+    
     for(;;)
     {
         if(!CapSense_IsBusy())
-        {
-            
+        {   
             CapSense_ProcessAllWidgets();
             slidervalue = CapSense_GetCentroidPos(CapSense_LINEARSLIDER0_WDGT_ID);
             

@@ -1,5 +1,5 @@
 -- Project:   Task_2
--- Generated: 06/01/2025 13:34:04
+-- Generated: 10/03/2026 16:10:42
 -- PSoC Creator  4.4
 
 ENTITY Task_2 IS
@@ -96,6 +96,8 @@ ARCHITECTURE __DEFAULT__ OF Task_2 IS
     ATTRIBUTE Location OF \CapSense:Sns(1)\ : LABEL IS "P1[5]";
     ATTRIBUTE Location OF \CapSense:Sns(2)\ : LABEL IS "P1[6]";
     ATTRIBUTE Location OF \CapSense:Cmod(0)\ : LABEL IS "P4[3]";
+    ATTRIBUTE Location OF \UART:tx(0)\ : LABEL IS "P3[1]";
+    ATTRIBUTE Location OF \UART:rx(0)\ : LABEL IS "P3[0]";
     ATTRIBUTE Location OF LED_CapSense_Button_0(0) : LABEL IS "P3[4]";
     ATTRIBUTE Location OF LED_CapSense_Button_1(0) : LABEL IS "P3[5]";
     ATTRIBUTE Location OF LED_CapSense_Button_2(0) : LABEL IS "P3[6]";

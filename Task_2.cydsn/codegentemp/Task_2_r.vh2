@@ -1,5 +1,5 @@
 -- Project:   Task_2
--- Generated: 06/01/2025 13:34:04
+-- Generated: 10/03/2026 16:10:42
 -- PSoC Creator  4.4
 
 ENTITY Task_2 IS
@@ -98,8 +98,8 @@ ARCHITECTURE __DEFAULT__ OF Task_2 IS
     ATTRIBUTE Location OF \CapSense:Sns(1)\ : LABEL IS "P1[5]";
     ATTRIBUTE Location OF \CapSense:Sns(2)\ : LABEL IS "P1[6]";
     ATTRIBUTE Location OF \CapSense:Cmod(0)\ : LABEL IS "P4[3]";
-    ATTRIBUTE Location OF \UART:tx(0)\ : LABEL IS "P1[1]";
-    ATTRIBUTE Location OF \UART:rx(0)\ : LABEL IS "P1[0]";
+    ATTRIBUTE Location OF \UART:tx(0)\ : LABEL IS "P3[1]";
+    ATTRIBUTE Location OF \UART:rx(0)\ : LABEL IS "P3[0]";
     ATTRIBUTE Location OF LED_CapSense_Button_0(0) : LABEL IS "P3[4]";
     ATTRIBUTE Location OF LED_CapSense_Button_1(0) : LABEL IS "P3[5]";
     ATTRIBUTE Location OF LED_CapSense_Button_2(0) : LABEL IS "P3[6]";
@@ -108,7 +108,7 @@ ARCHITECTURE __DEFAULT__ OF Task_2 IS
     ATTRIBUTE Location OF \CapSense:CSD\ : LABEL IS "F(CSD,0)";
     ATTRIBUTE Location OF \CapSense:IDACMod\ : LABEL IS "F(CSIDAC7,0)";
     ATTRIBUTE Location OF \CapSense:IDACComp\ : LABEL IS "F(CSIDAC7,1)";
-    ATTRIBUTE Location OF \UART:SCB\ : LABEL IS "F(SCB,0)";
+    ATTRIBUTE Location OF \UART:SCB\ : LABEL IS "F(SCB,1)";
     COMPONENT interrupt
         PORT (
             interrupt : IN std_ulogic;
@@ -347,7 +347,8 @@ BEGIN
             lfclk => ClockBlock_LFClk,
             wco => ClockBlock_WCO,
             ff_div_2 => \CapSense:Net_1423_ff2\,
-            ff_div_0 => \UART:Net_847_ff0\);
+            ff_div_0 => open,
+            ff_div_1 => \UART:Net_847_ff0\);
 
     User_button_pin:logicalport
         GENERIC MAP(

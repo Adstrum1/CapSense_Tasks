@@ -6,7 +6,7 @@
 
 #Build Date:         Sep  9 2019 11:47:43
 
-#File Generated:     Jun 1 2025 13:34:04
+#File Generated:     Oct 3 2026 16:10:42
 
 #Purpose:            
 
@@ -14,7 +14,7 @@
 
 #***************************************************************************
 
-Executing : F:\psoccreator\PSoC Creator\4.4\PSoC Creator\bin/sjplacer.exe --proj-name Task_2 --netlist-vh2 Task_2_p.vh2 --arch p4_udb0x0 --arch-file F:\psoccreator\PSoC Creator\4.4\PSoC Creator\dev\arch/udbdsi_0x0.cydata --ip-file F:\psoccreator\PSoC Creator\4.4\PSoC Creator\dev\psoc4/9/ip_blocks.cydata --rrg-file F:\psoccreator\PSoC Creator\4.4\PSoC Creator\dev\psoc4/9/route_arch-rrg.cydata --irq-file F:\psoccreator\PSoC Creator\4.4\PSoC Creator\dev\psoc4/9/irqconn.cydata --drq-file F:\psoccreator\PSoC Creator\4.4\PSoC Creator\dev\psoc4/9/triggerconn.cydata --dsi-conn-file F:\psoccreator\PSoC Creator\4.4\PSoC Creator\dev\psoc4/9/dsiconn.cydata --pins-file pins_48-TQFP.xml --io-pcf Task_2.pci --outdir .
+Executing : C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\bin/sjplacer.exe --proj-name Task_2 --netlist-vh2 Task_2_p.vh2 --arch p4_udb0x0 --arch-file C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\arch/udbdsi_0x0.cydata --ip-file C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\psoc4/9/ip_blocks.cydata --rrg-file C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\psoc4/9/route_arch-rrg.cydata --irq-file C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\psoc4/9/irqconn.cydata --drq-file C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\psoc4/9/triggerconn.cydata --dsi-conn-file C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\psoc4/9/dsiconn.cydata --pins-file pins_48-TQFP.xml --io-pcf Task_2.pci --outdir .
 
 		Softjin Techologies Placer, Version 1.1
 
@@ -23,7 +23,7 @@ Build Date : Sep  9 2019	11:45:12
 D2004: Option and Settings Summary
 =============================================================
 Netlist vh2 file          - Task_2_p.vh2
-Architecture file         - F:\psoccreator\PSoC Creator\4.4\PSoC Creator\dev\arch/udbdsi_0x0.cydata
+Architecture file         - C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\arch/udbdsi_0x0.cydata
 Package                   - 
 Defparam file             - 
 SDC file                  - 
@@ -34,7 +34,7 @@ IO Placement file         - Task_2.pci
 D2050: Starting reading inputs for placer
 =============================================================
 D2065: Reading netlist file : "Task_2_p.vh2"
-D2065: Reading arch file : "F:\psoccreator\PSoC Creator\4.4\PSoC Creator\dev\arch/udbdsi_0x0.cydata"
+D2065: Reading arch file : "C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\arch/udbdsi_0x0.cydata"
 D2051: Reading of inputs for placer completed successfully
 
 D2053: Starting placement of the design
@@ -63,28 +63,10 @@ D2088: Phase 3, elapsed time : 0.0 (sec)
 Phase 4
 D2088: Phase 4, elapsed time : 0.0 (sec)
 
-Phase 7
-D2088: Phase 7, elapsed time : 0.0 (sec)
-
-Final Design Statistics
-    Number of Combinational MCs 	:	0
-    Number of Sequential MCs    	:	0
-    Number of DPs               	:	0
-    Number of Controls          	:	0
-    Number of Status            	:	0
-    Number of SyncCells         	:	0
-    Number of count7cells       	:	0
-    Number of IOs       	:	11
-
-Device Utilization Summary
-    Macrocells                  :	0/0
-    IOs                         :	11/36
-
-
 Phase 8
 D2088: Phase 8, elapsed time : 0.0 (sec)
 
 D2054: Placement of the design completed successfully
 
-I2076: Total run-time: 0.1 sec.
+I2076: Total run-time: 0.2 sec.
 

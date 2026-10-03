@@ -1,5 +1,5 @@
 -- Project:   Task_1
--- Generated: 06/01/2025 13:32:14
+-- Generated: 10/03/2026 13:24:33
 -- PSoC Creator  4.4
 
 ENTITY Task_1 IS
@@ -97,9 +97,9 @@ ARCHITECTURE __DEFAULT__ OF Task_1 IS
     ATTRIBUTE Location OF \CapSense:Sns(2)\ : LABEL IS "P0[2]";
     ATTRIBUTE Location OF \CapSense:Sns(3)\ : LABEL IS "P0[3]";
     ATTRIBUTE Location OF \CapSense:Sns(4)\ : LABEL IS "P0[6]";
-    ATTRIBUTE Location OF \CapSense:Cmod(0)\ : LABEL IS "P4[1]";
-    ATTRIBUTE Location OF \UART:tx(0)\ : LABEL IS "P1[1]";
-    ATTRIBUTE Location OF \UART:rx(0)\ : LABEL IS "P1[0]";
+    ATTRIBUTE Location OF \CapSense:Cmod(0)\ : LABEL IS "P4[3]";
+    ATTRIBUTE Location OF \UART:tx(0)\ : LABEL IS "P3[1]";
+    ATTRIBUTE Location OF \UART:rx(0)\ : LABEL IS "P3[0]";
     ATTRIBUTE Location OF LED_Slider_1(0) : LABEL IS "P2[4]";
     ATTRIBUTE Location OF LED_Slider_2(0) : LABEL IS "P2[3]";
     ATTRIBUTE Location OF LED_Slider_3(0) : LABEL IS "P2[2]";
@@ -109,7 +109,7 @@ ARCHITECTURE __DEFAULT__ OF Task_1 IS
     ATTRIBUTE Location OF \CapSense:CSD\ : LABEL IS "F(CSD,0)";
     ATTRIBUTE Location OF \CapSense:IDACMod\ : LABEL IS "F(CSIDAC7,0)";
     ATTRIBUTE Location OF \CapSense:IDACComp\ : LABEL IS "F(CSIDAC7,1)";
-    ATTRIBUTE Location OF \UART:SCB\ : LABEL IS "F(SCB,0)";
+    ATTRIBUTE Location OF \UART:SCB\ : LABEL IS "F(SCB,1)";
     COMPONENT interrupt
         PORT (
             interrupt : IN std_ulogic;
@@ -348,7 +348,8 @@ BEGIN
             lfclk => ClockBlock_LFClk,
             wco => ClockBlock_WCO,
             ff_div_2 => \CapSense:Net_1423_ff2\,
-            ff_div_0 => \UART:Net_847_ff0\);
+            ff_div_0 => open,
+            ff_div_1 => \UART:Net_847_ff0\);
 
     \CapSense:Sns\:logicalport
         GENERIC MAP(

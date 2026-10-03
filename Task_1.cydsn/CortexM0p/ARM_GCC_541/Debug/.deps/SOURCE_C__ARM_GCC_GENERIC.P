@@ -1,272 +1,106 @@
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/CapSense_Centroid_LL.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Centroid_LL.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Centroid_LL.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Configuration.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Filter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SmartSense_LL.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Structure.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/main.o : C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Centroid_LL.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Configuration.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Control.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Filter.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_ISR.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Processing.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_RegisterMap.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Sensing.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SensingCSD_LL.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SmartSense_LL.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Structure.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Tuner.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyFlash.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_1.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_1_aliases.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_2.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_2_aliases.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_3.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_3_aliases.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_4.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_4_aliases.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_5.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_5_aliases.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_BOOT.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PINS.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PVT.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cmsis_armcc.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cmsis_compiler.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cmsis_gcc.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/core_cm0plus.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/core_cm0plus_psoc4.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyPm.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydisabledsheets.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/project.h C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/main.c 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Centroid_LL.c : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Centroid_LL.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Centroid_LL.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Configuration.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Configuration.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Filter.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Control.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SmartSense_LL.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Filter.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Structure.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_ISR.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Processing.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_RegisterMap.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Sensing.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SensingCSD_LL.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SmartSense_LL.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/CapSense_Control.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Configuration.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Control.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Control.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Filter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_ISR.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Processing.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Sensing.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SmartSense_LL.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Structure.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Tuner.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyPm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Structure.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Control.c : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Tuner.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Control.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyFlash.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_ISR.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Processing.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Sensing.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_1.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Tuner.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_1_aliases.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyPm.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_2.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_2_aliases.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/CapSense_Filter.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Configuration.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Filter.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Filter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SmartSense_LL.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Structure.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_3.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Filter.c : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_3_aliases.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/CapSense_INT.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Configuration.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_INT.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_ISR.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Sensing.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SensingCSD_LL.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SmartSense_LL.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Structure.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h F:/CapSense_Tasks/Task_1.cydsn/cyapicallbacks.h 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_4.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_INT.c : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_4_aliases.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SensingCSD_LL.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_5.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/cyapicallbacks.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_5_aliases.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/CapSense_ISR.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_ISR.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_ISR.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h F:/CapSense_Tasks/Task_1.cydsn/cyapicallbacks.h 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_ISR.c : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_BOOT.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/CapSense_Processing.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Centroid_LL.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Configuration.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Filter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Processing.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Processing.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SmartSense_LL.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Structure.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PINS.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Processing.c : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PVT.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/CapSense_Sensing.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Configuration.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_ISR.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Sensing.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Sensing.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SensingCSD_LL.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SmartSense_LL.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Structure.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Sensing.c : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/CapSense_SensingCSD_LL.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Configuration.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_ISR.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Sensing.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SensingCSD_LL.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SensingCSD_LL.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SmartSense_LL.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Structure.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h F:/CapSense_Tasks/Task_1.cydsn/cyapicallbacks.h 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SensingCSD_LL.c : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/CapSense_Structure.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Configuration.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SmartSense_LL.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Structure.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Structure.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Structure.c : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/CapSense_Tuner.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Configuration.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Control.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SmartSense_LL.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Structure.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Tuner.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Tuner.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Tuner.c : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cmsis_armcc.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/Cm0plusStart.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/Cm0plusStart.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h F:/CapSense_Tasks/Task_1.cydsn/cyapicallbacks.h 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cmsis_compiler.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/Cm0plusStart.c : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cmsis_gcc.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/core_cm0plus.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/CyFlash.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyFlash.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyFlash.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/core_cm0plus_psoc4.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyFlash.c : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyPm.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/CyLFClk.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.c : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/CyLib.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyFlash.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.c : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/LED_Slider_1.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_1.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_1.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_1_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_1.c : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_1.h : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/project.h : 
 
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_1_aliases.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/LED_Slider_1_PM.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_1.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_1_PM.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_1_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_1_PM.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/LED_Slider_2.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_2.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_2.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_2_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_2.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_2.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_2_aliases.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/LED_Slider_2_PM.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_2.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_2_PM.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_2_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_2_PM.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/LED_Slider_3.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_3.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_3.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_3_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_3.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_3.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_3_aliases.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/LED_Slider_3_PM.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_3.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_3_PM.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_3_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_3_PM.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/LED_Slider_4.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_4.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_4.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_4_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_4.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_4.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_4_aliases.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/LED_Slider_4_PM.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_4.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_4_PM.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_4_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_4_PM.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/LED_Slider_5.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_5.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_5.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_5_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_5.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_5.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_5_aliases.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/LED_Slider_5_PM.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_5.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_5_PM.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_5_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_5_PM.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/UART.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PINS.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PVT.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PINS.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PVT.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/UART_BOOT.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_BOOT.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_BOOT.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PINS.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PVT.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_BOOT.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_BOOT.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/UART_PM.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PINS.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PM.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PVT.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PM.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/UART_SCBCLK.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SCBCLK.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SCBCLK.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/UART_SPI_UART.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PINS.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PVT.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/UART_SPI_UART_INT.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PINS.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PVT.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART_INT.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h F:/CapSense_Tasks/Task_1.cydsn/cyapicallbacks.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART_INT.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/UART_UART.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PINS.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PVT.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_UART.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h F:/CapSense_Tasks/Task_1.cydsn/cyapicallbacks.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_UART.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/UART_UART_BOOT.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_BOOT.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PINS.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PVT.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_UART_BOOT.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_UART_BOOT.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/UART_rx.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/UART_rx_PM.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx_PM.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx_PM.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/UART_tx.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/UART_tx_PM.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx_PM.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx_PM.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/cyPm.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyFlash.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyPm.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyPm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyPm.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/cy_em_eeprom.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyFlash.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cy_em_eeprom.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cy_em_eeprom.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/cyfitter_cfg.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter_cfg.c F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h F:/CapSense_Tasks/Task_1.cydsn/cyapicallbacks.h 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter_cfg.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/cymetadata.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cymetadata.c 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cymetadata.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/cyutils.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyutils.c 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyutils.c : 
-
-F:/CapSense_Tasks/Task_1.cydsn/CortexM0p/ARM_GCC_541/Debug/main.o : F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_RegisterMap.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cmsis_armcc.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cmsis_compiler.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cmsis_gcc.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/core_cm0plus.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/core_cm0plus_psoc4.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydisabledsheets.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/project.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Centroid_LL.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Configuration.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Control.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Filter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_ISR.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Processing.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Sensing.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SensingCSD_LL.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_SmartSense_LL.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Structure.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_Tuner.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyFlash.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLFClk.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CyLib.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_1.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_1_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_2.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_2_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_3.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_3_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_4.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_4_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_5.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/LED_Slider_5_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_BOOT.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PINS.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_PVT.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyPm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydevice_trm.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cypins.h F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cytypes.h F:/CapSense_Tasks/Task_1.cydsn/main.c 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/CapSense_RegisterMap.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cmsis_armcc.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cmsis_compiler.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cmsis_gcc.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/core_cm0plus.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/core_cm0plus_psoc4.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/Generated_Source/PSoC4/project.h : 
-
-F:/CapSense_Tasks/Task_1.cydsn/main.c : 
+C:/Users/adstrumwin/Desktop/CapSense_Tasks/Task_1.cydsn/main.c : 
 

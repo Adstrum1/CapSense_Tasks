@@ -1,5 +1,5 @@
 # Task_2
-# 2025-06-01 10:34:04Z
+# 2026-10-03 13:10:42Z
 
 # IO_2@[IOP=(3)][IoId=(2)] is reserved: SWDDebugEnabled
 dont_use_io iocell 3 2
@@ -12,6 +12,8 @@ set_io "\CapSense:Sns(0)\" iocell 1 4
 set_io "\CapSense:Sns(1)\" iocell 1 5
 set_io "\CapSense:Sns(2)\" iocell 1 6
 set_io "\CapSense:Cmod(0)\" iocell 4 3
+set_io "\UART:tx(0)\" iocell 3 1
+set_io "\UART:rx(0)\" iocell 3 0
 set_io "LED_CapSense_Button_0(0)" iocell 3 4
 set_io "LED_CapSense_Button_1(0)" iocell 3 5
 set_io "LED_CapSense_Button_2(0)" iocell 3 6
