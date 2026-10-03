@@ -1,8 +1,0 @@
-F:\CapSense_Tasks\Task_1.cydsn\Task_1.cyprj|4c58b523-392d-4a87-827f-eedb066de3f4
-F:\psoccreator\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|ff18a953-8dbb-4a63-86c7-8538ebf4be67
-A:\Users\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|7200b310-3ae4-4312-b671-dde33327dfc4
-F:\psoccreator\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|297262e7-d624-47a0-8f71-a5ab6b2234c2
-F:\psoccreator\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|c3e5d1e7-fb2c-4a91-a4c8-638240297424
-F:\psoccreator\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|4433dcac-5f80-47ed-af9d-b4d8a1d45e54
-F:\CapSense_Tasks\Taks_2_Reaction_Game.cydsn\Taks_2_Reaction_Game.cyprj|6adf1103-03d9-42dd-8696-a65724e3a52b
-F:\CapSense_Tasks\Design02.cydsn\Design02.cyprj|995f2d63-13cd-4472-b53a-b93f4ef358ae
